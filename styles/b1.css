@@ -247,6 +247,9 @@ section.noe-floor-1 .right .right-wrapper .noe-description p {
   width: 100%;
   word-break: break-all;
 }
+section.noe-floor-1 .right .right-wrapper .noe-description p span {
+  color: #0098ea;
+}
 @media (max-width: 576px) {
   section.noe-floor-1 .right .right-wrapper .noe-description p {
     font-size: 10px;

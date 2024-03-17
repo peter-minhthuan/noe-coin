@@ -256,6 +256,10 @@ section.noe-floor-1 {
           width: 100%;
           word-break: break-all;
 
+          span {
+            color: $primaryColor;
+          }
+
           @include media() {
             font-size: 10px;
             max-width: 72px;
